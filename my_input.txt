@@ -1,0 +1,5 @@
+() ('human', 'knight', 'king', 'mysterious')
+('King Arthur',) ('human', 'knight', 'king')
+('holy grail',) ('mysterious',)
+('King Arthur', 'Sir Robin') ('human', 'knight')
+('King Arthur', 'Sir Robin', 'holy grail') ()

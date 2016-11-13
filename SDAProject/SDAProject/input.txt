@@ -1,0 +1,16 @@
+﻿King Arthur;Sir Robin;holy grail
+human;night;king;mysterious
+c1 c1
+c1 c0
+c2 c2
+c3 c3
+c3 c1
+c4 c2
+c4 c3
+
+
+() ('human', 'knight', 'king', 'mysterious')
+('King Arthur',) ('human', 'knight', 'king')
+('holy grail',) ('mysterious',)
+('King Arthur', 'Sir Robin') ('human', 'knight')
+('King Arthur', 'Sir Robin', 'holy grail') ()

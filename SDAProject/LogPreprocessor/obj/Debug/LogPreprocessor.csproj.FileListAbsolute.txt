@@ -1,0 +1,8 @@
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\bin\Debug\LogPreprocessor.exe.config
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\bin\Debug\LogPreprocessor.exe
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\bin\Debug\LogPreprocessor.pdb
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\obj\Debug\LogPreprocessor.csprojResolveAssemblyReference.cache
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\obj\Debug\LogPreprocessor.exe
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\obj\Debug\LogPreprocessor.pdb
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\bin\Debug\Newtonsoft.Json.dll
+D:\Rifat\software analytics\Data\Code\SDAProject\LogPreprocessor\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,352 @@
+﻿INFO - Id=19 File Uploaded fileName=Untitled.png
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\Untitled.png
+INFO - Id=21 File successfully saved
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=1 signup MobileNumber=01234567890, Password=iit123
+INFO - id=3 password matched password=iit123, confirmPassword=iit123
+INFO - id=4 signing up farmer mobileNumber=01234567890
+INFO - Id=41 Adding farmer
+INFO - Id=42 Farmer added to database FarmerId=2
+INFO - id=6 sign up successful mobileNumber=01234567890
+INFO - id=7 sigining in  Id=2, TokenVale=4e996734-7c68-46f6-a88c-a08ceb7e35c5
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=0
+INFO - Id=30 sending all products
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=0
+INFO - Id=30 sending all products
+INFO - Id=19 File Uploaded fileName=download.jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\download.jpg
+INFO - Id=21 File successfully saved
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=23 Adding new product
+INFO - Id=51 adding product
+INFO - Id=52 product added ProductId=1
+INFO - Id=24 new product added productId=1
+INFO - Id=68 getting average productId=1
+INFO - Id=69 average rating averageRating=0
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=2, productId=1, ratingValue=5
+INFO - Id=58 getting product productId=1
+INFO - Id=39 cannot rate
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=1
+INFO - Id=68 getting average productId=1
+INFO - Id=69 average rating averageRating=0
+INFO - Id=30 sending all products
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=1
+INFO - Id=68 getting average productId=1
+INFO - Id=69 average rating averageRating=0
+INFO - Id=30 sending all products
+INFO - Id=19 File Uploaded fileName=download (1).jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\download (1).jpg
+INFO - Id=21 File successfully saved
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=23 Adding new product
+INFO - Id=51 adding product
+INFO - Id=52 product added ProductId=2
+INFO - Id=24 new product added productId=2
+INFO - Id=68 getting average productId=2
+INFO - Id=69 average rating averageRating=0
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=2
+INFO - Id=68 getting average productId=1
+INFO - Id=69 average rating averageRating=0
+INFO - Id=68 getting average productId=2
+INFO - Id=69 average rating averageRating=0
+INFO - Id=30 sending all products
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=12 signout FarmerId=2
+INFO - id=13 signout successful
+INFO - Id=19 File Uploaded fileName=download.jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\download.jpg
+INFO - Id=21 File successfully saved
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=1 signup MobileNumber=01234567890, Password=iit123
+INFO - id=3 password matched password=iit123, confirmPassword=iit123
+INFO - id=4 signing up farmer mobileNumber=01234567890
+INFO - id=5 signing up unsuccesful mobileNumber=01234567890
+INFO - Id=19 File Uploaded fileName=unnamed.jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\unnamed.jpg
+INFO - Id=21 File successfully saved
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=1 signup MobileNumber=01234567890, Password=iit123
+INFO - id=3 password matched password=iit123, confirmPassword=iit123
+INFO - id=4 signing up farmer mobileNumber=01234567890
+INFO - id=5 signing up unsuccesful mobileNumber=01234567890
+INFO - Id=19 File Uploaded fileName=download.jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\download.jpg
+INFO - Id=21 File successfully saved
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=1 signup MobileNumber=01234567891, Password=iit123
+INFO - id=3 password matched password=iit123, confirmPassword=iit123
+INFO - id=4 signing up farmer mobileNumber=01234567891
+INFO - Id=41 Adding farmer
+INFO - Id=42 Farmer added to database FarmerId=3
+INFO - id=6 sign up successful mobileNumber=01234567891
+INFO - id=7 sigining in  Id=3, TokenVale=826a915b-1049-49e9-b08a-46617b0a5f27
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=18 Getting User Profile FarmerId=3
+INFO - Id=19 File Uploaded fileName=download.jpg
+INFO - Id=20 File saved filePath=D:\Rifat\software analytics\Data\IITDU.SIUSC\CVAnalyzer\CVAnalyzer\upload\download.jpg
+INFO - Id=21 File successfully saved
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - Id=40 Initialized appcontext for farmer model
+INFO - id=15 Editing Account FarmerId=3
+INFO - Id=43 updating farmer FarmerId=3
+INFO - Id=44 farmer updated FarmerId=3
+INFO - id=16 Editing Account FarmerId=3
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=2
+INFO - Id=68 getting average productId=1
+INFO - Id=69 average rating averageRating=0
+INFO - Id=68 getting average productId=2
+INFO - Id=69 average rating averageRating=0
+INFO - Id=30 sending all products
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=3, productId=1, ratingValue=5
+INFO - Id=58 getting product productId=1
+INFO - Id=62 adding rating Value5
+INFO - Id=63 rating added RatingId=1
+INFO - Id=38 Rated Successfully
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=25 retrieving new product productId=1
+INFO - Id=58 getting product productId=1
+INFO - Id=26 product found productId=1
+INFO - Id=68 getting average productId=1
+INFO - Id=70 average rating averageRating=5
+INFO - Id=27 delivering product to client end
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=28 retrieving all product from=0, number=4
+INFO - Id=57 getting all products
+INFO - Id=29 Number of retrieved products count=2
+INFO - Id=68 getting average productId=1
+INFO - Id=70 average rating averageRating=5
+INFO - Id=68 getting average productId=2
+INFO - Id=69 average rating averageRating=0
+INFO - Id=30 sending all products
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=3, productId=2, ratingValue=3
+INFO - Id=58 getting product productId=2
+INFO - Id=62 adding rating Value3
+INFO - Id=63 rating added RatingId=2
+INFO - Id=38 Rated Successfully
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=22 Product controller initialized
+INFO - Id=25 retrieving new product productId=2
+INFO - Id=58 getting product productId=2
+INFO - Id=26 product found productId=2
+INFO - Id=68 getting average productId=2
+INFO - Id=70 average rating averageRating=3
+INFO - Id=27 delivering product to client end
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=3, productId=2, ratingValue=5
+INFO - Id=39 cannot rate
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=3, productId=2, ratingValue=3
+INFO - Id=39 cannot rate
+INFO - Id=36 Initializing Rating Controller
+INFO - Id=60 appcontext initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=61 product repository initialized for rating model
+INFO - Id=50 initializing appcontext for product model
+INFO - Id=37 Rating product raterId=3, productId=2, ratingValue=5
+INFO - Id=39 cannot rate

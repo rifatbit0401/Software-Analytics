@@ -1,0 +1,16 @@
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\bin\Debug\SDAProject.exe.config
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\obj\Debug\SDAProject.csprojResolveAssemblyReference.cache
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\bin\Debug\SDAProject.exe
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\bin\Debug\SDAProject.pdb
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\obj\Debug\SDAProject.exe
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\obj\Debug\SDAProject.pdb
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\bin\Debug\Newtonsoft.Json.dll
+E:\MSSE Program\MSSE 2nd Semester\Software Analytics\Code\SDAProject\SDAProject\bin\Debug\Newtonsoft.Json.xml
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\bin\Debug\SDAProject.exe.config
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\bin\Debug\SDAProject.exe
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\bin\Debug\SDAProject.pdb
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\bin\Debug\Newtonsoft.Json.dll
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\bin\Debug\Newtonsoft.Json.xml
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\obj\Debug\SDAProject.csprojResolveAssemblyReference.cache
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\obj\Debug\SDAProject.exe
+D:\Rifat\software analytics\Data\Code\SDAProject\SDAProject\obj\Debug\SDAProject.pdb
